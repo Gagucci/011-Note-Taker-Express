@@ -24,7 +24,7 @@ A simple note taking app that allows you to create, save, and delete notes.
 ## License
 
 This project is protected under the MIT license.
-For more information visit [here:](https://opensource.org/licenses/MIT).
+For more information visit [here](https://opensource.org/licenses/MIT).
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
